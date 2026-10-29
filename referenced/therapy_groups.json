@@ -1828,5 +1828,23 @@
       "tx:ncit:C121775",
       "tx:ncit:C130010"
     ]
+  },
+  {
+    "id": "txgrp:229",
+    "membershipOperator": "AND",
+    "therapies": [
+      "tx:ncit:C1794",
+      "tx:ncit:C1181",
+      "tx:ncit:C130010"
+    ]
+  },
+  {
+    "id": "txgrp:230",
+    "membershipOperator": "AND",
+    "therapies": [
+      "tx:ncit:C376",
+      "tx:ncit:C505",
+      "tx:ncit:C130010"
+    ]
   }
 ]
