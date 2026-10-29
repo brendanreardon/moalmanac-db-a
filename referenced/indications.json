@@ -4382,6 +4382,25 @@
     "superseded_by": []
   },
   {
+    "id": "ind:fda:ziihera:1",
+    "type": "Indication",
+    "description": "ZIHERA is a bispecific HER2-directed antibody indicated in combination with fluoropyrimidine- and platinum-containing chemotherapy, and tislelizumab-jsgr, as first-line treatment of adult patients with HER2-positive (IHC 3+ or IHC 2+/ISH+) unresectable locally advanced or metastatic gastric, gastroesophageal junction, or esophageal adenocarcinoma, as detected by an FDA-authorized test.",
+    "contributions": [
+      "ctrb:vanallenlab:2026-10-29:0",
+      "ctrb:fda:2026-08-25:0"
+    ],
+    "reportedIn": [
+      "doc:fda:ziihera",
+      "doc:fda:ziihera:2026-08-25"
+    ],
+    "status": "Approved",
+    "statement_description": "The U.S. Food and Drug Administration (FDA) granted approval to zanitdatamab in combination with fluoropyrimidine- and platinum-containing chemotherapy and tislelizumab for the first-line treatment of adult patients with HER2-positive (IHC 3+ or IHC 2+/ISH+) unresectable locally advanced or metastatic gastric, gastroesophageal junction, or esophageal adenocarcinoma, as detected by an FDA-authorized test. This approval is based on HERIZON-GEA-01 (NCT05152147), a randomized, 3-arm, open-label, active-comparator, global trial. For the chemotherapy components, patients received zanitdatamab in combination with CAPOX (oxaliplatin and capecitabine) or FP (cisplatin and fluorouracil).",
+    "raw_biomarkers": "HER2-positive",
+    "raw_cancer_types": "gastric, gastroesophageal junction, or esophageal adenocarcinoma",
+    "raw_therapeutics": "zanidatamab in combination with fluoropyrimidine- and platinum-containing chemotherapy",
+    "superseded_by": []
+  },
+  {
     "id": "ind:fda:bizengri:0",
     "type": "Indication",
     "description": "BIZENGRI is a bispecific HER2- and HER3-directed antibody indicated for the treatment of adults with advanced, unresectable or metastatic non-small cell lung cancer (NSCLC) harboring a neuregulin 1 (NRG1) gene fusion with disease progression on or after prior systemic therapy. This indication is approved under accelerated approval based on overall response rate and duration of response. Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial(s).",
