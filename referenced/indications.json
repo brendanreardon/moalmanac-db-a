@@ -16723,5 +16723,24 @@
     "raw_cancer_types": "metastatic androgen pathway modulation-naive or -sensitive (mAPMN/S) prostate cancer",
     "raw_therapeutics": "Truqap (capivasertib), in combination with abiraterone and prednisone",
     "superseded_by": []
+  },
+  {
+    "id": "ind:fda:revtorpyk:0",
+    "type": "Indication",
+    "description": "REVTORPYK is a kinase inhibitor indicated in combination with fulvestrant, with or without palbociclib, for the treatment of adult patients with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative locally advanced or metastatic breast cancer without a PIK3CA mutation detected following progression on or after treatment with at least one line of endocrine therapy in the metastatic setting.",
+    "contributions": [
+      "ctrb:vanallenlab:2026-10-29:0",
+      "ctrb:fda:2026-07-14:0"
+    ],
+    "reportedIn": [
+      "doc:fda:revtorpyk",
+      "doc:fda:revtorpyk:2026-07-14"
+    ],
+    "status": "Approved",
+    "statement_description": "The U.S. Food and Drug Administration granted approval to gedatolisib in combination with fulvestrant, with or without palbociclib, for the treatment ",
+    "raw_biomarkers": "HR-positive, HER2-negative, no PIK3CA mutation",
+    "raw_cancer_types": "breast cancer",
+    "raw_therapeutics": "REVTORPYK with fulvestrant, with or without palbociclib, for the treatment of adult patients with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative locally advanced or metastatic breast cancer without a PIK3CA variant detected following progression on or after treatment with at least one line of endocrine therapy in the metastatic setting.",
+    "superseded_by": []
   }
 ]
