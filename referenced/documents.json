@@ -36764,5 +36764,51 @@
     "publication_date": "2026-05-01",
     "regulatory_identifier": "NDA219835",
     "status": "Deprecated"
+  },
+  {
+    "id": "doc:fda:revtorpyk",
+    "type": "Document",
+    "documentType": "Regulatory approval",
+    "name": "Revtorpyk (gedatolisib) [package insert]. FDA.",
+    "title": null,
+    "aliases": [],
+    "description": "Celcuity. Revtorpyk (gedatolisib) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/219908Orig1s000lbl.pdf. Revised July 2026. Accessed October 29, 2026.",
+    "urls": [
+      "url:fda:revtorpyk:label",
+      "url:fda:revtorpyk:overview"
+    ],
+    "doi": null,
+    "pmid": null,
+    "agent_id": "agent:org:fda",
+    "company": "Celcuity",
+    "drug_name_brand": "Revtorpyk",
+    "drug_name_generic": "gedatolisib",
+    "first_publication_date": "2026-07-14",
+    "publication_date": "2026-07-14",
+    "regulatory_identifier": "NDA219908",
+    "status": "Active"
+  },
+  {
+"id": "doc:fda:revtorpyk:2026-07-14",
+    "type": "Document",
+    "documentType": "Regulatory approval",
+    "name": "Revtorpyk (gedatolisib) [package insert]. FDA.",
+    "title": null,
+    "aliases": [],
+    "description": "Celcuity. Revtorpyk (gedatolisib) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/219908Orig1s000lbl.pdf. Revised July 2026. Accessed October 29, 2026.",
+    "urls": [
+      "url:fda:revtorpyk:label:2026-07-14",
+      "url:fda:revtorpyk:overview"
+    ],
+    "doi": null,
+    "pmid": null,
+    "agent_id": "agent:org:fda",
+    "company": "Celcuity",
+    "drug_name_brand": "Revtorpyk",
+    "drug_name_generic": "gedatolisib",
+    "first_publication_date": "2026-07-14",
+    "publication_date": "2026-07-14",
+    "regulatory_identifier": "NDA219908",
+    "status": "Deprecated"
   }
 ]
