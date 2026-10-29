@@ -953,5 +953,10 @@
     "id": "bmkr.criterion:191",
     "subject": "bmkr:186",
     "present": true
+  },
+  {
+    "id": "bmkr.criterion:192",
+    "subject": "bmkr:87",
+    "present": false
   }
 ]
