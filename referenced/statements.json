@@ -35811,5 +35811,77 @@
     "strength_id": "str:ncit:C25425",
     "status": "Active",
     "indication_id": "ind:fda:ziihera:1"
+  },
+  {
+    "id": "stmt:fda:ziihera:2:0",
+    "type": "Statement",
+    "description": "",
+    "contributions": [],
+    "reportedIn": [],
+    "proposition_id": "prop:vtxr:1009",
+    "direction": "supports",
+    "strength_id": "str:ncit:C25425",
+    "status": "Active",
+    "indication_id": "ind:fda:ziihera:2"
+  },
+  {
+    "id": "stmt:fda:ziihera:2:1",
+    "type": "Statement",
+    "description": "",
+    "contributions": [],
+    "reportedIn": [],
+    "proposition_id": "prop:vtxr:1010",
+    "direction": "supports",
+    "strength_id": "str:ncit:C25425",
+    "status": "Active",
+    "indication_id": "ind:fda:ziihera:2"
+  },
+  {
+    "id": "stmt:fda:ziihera:2:2",
+    "type": "Statement",
+    "description": "",
+    "contributions": [],
+    "reportedIn": [],
+    "proposition_id": "prop:vtxr:1011",
+    "direction": "supports",
+    "strength_id": "str:ncit:C25425",
+    "status": "Active",
+    "indication_id": "ind:fda:ziihera:2"
+  },
+  {
+    "id": "stmt:fda:ziihera:2:3",
+    "type": "Statement",
+    "description": "",
+    "contributions": [],
+    "reportedIn": [],
+    "proposition_id": "prop:vtxr:1012",
+    "direction": "supports",
+    "strength_id": "str:ncit:C25425",
+    "status": "Active",
+    "indication_id": "ind:fda:ziihera:2"
+  },
+  {
+    "id": "stmt:fda:ziihera:2:4",
+    "type": "Statement",
+    "description": "",
+    "contributions": [],
+    "reportedIn": [],
+    "proposition_id": "prop:vtxr:1013",
+    "direction": "supports",
+    "strength_id": "str:ncit:C25425",
+    "status": "Active",
+    "indication_id": "ind:fda:ziihera:2"
+  },
+  {
+    "id": "stmt:fda:ziihera:2:5",
+    "type": "Statement",
+    "description": "",
+    "contributions": [],
+    "reportedIn": [],
+    "proposition_id": "prop:vtxr:1014",
+    "direction": "supports",
+    "strength_id": "str:ncit:C25425",
+    "status": "Active",
+    "indication_id": "ind:fda:ziihera:2"
   }
 ]
