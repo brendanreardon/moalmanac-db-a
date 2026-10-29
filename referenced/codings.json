@@ -9468,5 +9468,25 @@
     "iris": [
       "https://athena.ohdsi.org/search-terms/terms/1317445"
     ]
+  },
+  {
+    "id": "coding:ncit:C91732",
+    "code": "C91732",
+    "name": "Gedatolisib",
+    "system": "https://evsexplore.semantics.cancer.gov",
+    "systemVersion": "26.08e",
+    "iris": [
+      "https://evsexplore.semantics.cancer.gov/evsexplore/concept/ncit/C91732"
+    ]
+  },
+  {
+    "id": "coding:rxcui:2747771",
+    "code": "2747771",
+    "name": "gedatolisib",
+    "system": "RxNorm",
+    "systemVersion": "02-Mar-2026",
+    "iris": [
+      "https://mor.nlm.nih.gov/RxNav/search?searchBy=RXCUI&searchTerm=2747771"
+    ]
   }
 ]
