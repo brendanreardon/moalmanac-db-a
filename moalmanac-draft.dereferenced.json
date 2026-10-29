@@ -5,7 +5,7 @@
     "license": "CC-BY-4.0",
     "release": "2.0.0",
     "url": "https://moalmanac.org",
-    "last_updated": "2026-10-28"
+    "last_updated": "2026-10-29"
   },
   "content": [
     {
@@ -388195,7 +388195,7 @@
           "value": {
             "id": "ind:fda:ziihera:0",
             "type": "Indication",
-            "description": "ZIHERA is a bispecific HER2-directed antibody indicated for the treatment of adults with previously treated, unresectable or metastatic HER2-positive (IHC 3+) biliary tract cancer (BTC), as detected by an FDA-approved test. This indication is approved under accelerated approval based on overall response rate and duration of response. Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial(s).",
+            "description": "ZIIHERA is a bispecific HER2-directed antibody indicated for the treatment of adults with previously treated, unresectable or metastatic HER2-positive (IHC 3+) biliary tract cancer (BTC), as detected by an FDA-approved test. This indication is approved under accelerated approval based on overall response rate and duration of response. Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial(s).",
             "contributions": [
               {
                 "id": "ctrb:vanallenlab:2025-01-10:0",
@@ -388695,7 +388695,7 @@
           "value": {
             "id": "ind:fda:ziihera:0",
             "type": "Indication",
-            "description": "ZIHERA is a bispecific HER2-directed antibody indicated for the treatment of adults with previously treated, unresectable or metastatic HER2-positive (IHC 3+) biliary tract cancer (BTC), as detected by an FDA-approved test. This indication is approved under accelerated approval based on overall response rate and duration of response. Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial(s).",
+            "description": "ZIIHERA is a bispecific HER2-directed antibody indicated for the treatment of adults with previously treated, unresectable or metastatic HER2-positive (IHC 3+) biliary tract cancer (BTC), as detected by an FDA-approved test. This indication is approved under accelerated approval based on overall response rate and duration of response. Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial(s).",
             "contributions": [
               {
                 "id": "ctrb:vanallenlab:2025-01-10:0",
@@ -389195,7 +389195,7 @@
           "value": {
             "id": "ind:fda:ziihera:0",
             "type": "Indication",
-            "description": "ZIHERA is a bispecific HER2-directed antibody indicated for the treatment of adults with previously treated, unresectable or metastatic HER2-positive (IHC 3+) biliary tract cancer (BTC), as detected by an FDA-approved test. This indication is approved under accelerated approval based on overall response rate and duration of response. Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial(s).",
+            "description": "ZIIHERA is a bispecific HER2-directed antibody indicated for the treatment of adults with previously treated, unresectable or metastatic HER2-positive (IHC 3+) biliary tract cancer (BTC), as detected by an FDA-approved test. This indication is approved under accelerated approval based on overall response rate and duration of response. Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial(s).",
             "contributions": [
               {
                 "id": "ctrb:vanallenlab:2025-01-10:0",
@@ -1146017,7 +1146017,7 @@
           "value": {
             "id": "ind:fda:ziihera:1",
             "type": "Indication",
-            "description": "ZIHERA is a bispecific HER2-directed antibody indicated in combination with fluoropyrimidine- and platinum-containing chemotherapy, and tislelizumab-jsgr, as first-line treatment of adult patients with HER2-positive (IHC 3+ or IHC 2+/ISH+) unresectable locally advanced or metastatic gastric, gastroesophageal junction, or esophageal adenocarcinoma, as detected by an FDA-authorized test.",
+            "description": "ZIIHERA is a bispecific HER2-directed antibody indicated in combination with fluoropyrimidine- and platinum-containing chemotherapy, and tislelizumab-jsgr, as first-line treatment of adult patients with HER2-positive (IHC 3+ or IHC 2+/ISH+) unresectable locally advanced or metastatic gastric, gastroesophageal junction, or esophageal adenocarcinoma, as detected by an FDA-authorized test.",
             "contributions": [
               {
                 "id": "ctrb:vanallenlab:2026-10-29:0",
@@ -1146694,7 +1146694,7 @@
           "value": {
             "id": "ind:fda:ziihera:1",
             "type": "Indication",
-            "description": "ZIHERA is a bispecific HER2-directed antibody indicated in combination with fluoropyrimidine- and platinum-containing chemotherapy, and tislelizumab-jsgr, as first-line treatment of adult patients with HER2-positive (IHC 3+ or IHC 2+/ISH+) unresectable locally advanced or metastatic gastric, gastroesophageal junction, or esophageal adenocarcinoma, as detected by an FDA-authorized test.",
+            "description": "ZIIHERA is a bispecific HER2-directed antibody indicated in combination with fluoropyrimidine- and platinum-containing chemotherapy, and tislelizumab-jsgr, as first-line treatment of adult patients with HER2-positive (IHC 3+ or IHC 2+/ISH+) unresectable locally advanced or metastatic gastric, gastroesophageal junction, or esophageal adenocarcinoma, as detected by an FDA-authorized test.",
             "contributions": [
               {
                 "id": "ctrb:vanallenlab:2026-10-29:0",
@@ -1147371,7 +1147371,7 @@
           "value": {
             "id": "ind:fda:ziihera:1",
             "type": "Indication",
-            "description": "ZIHERA is a bispecific HER2-directed antibody indicated in combination with fluoropyrimidine- and platinum-containing chemotherapy, and tislelizumab-jsgr, as first-line treatment of adult patients with HER2-positive (IHC 3+ or IHC 2+/ISH+) unresectable locally advanced or metastatic gastric, gastroesophageal junction, or esophageal adenocarcinoma, as detected by an FDA-authorized test.",
+            "description": "ZIIHERA is a bispecific HER2-directed antibody indicated in combination with fluoropyrimidine- and platinum-containing chemotherapy, and tislelizumab-jsgr, as first-line treatment of adult patients with HER2-positive (IHC 3+ or IHC 2+/ISH+) unresectable locally advanced or metastatic gastric, gastroesophageal junction, or esophageal adenocarcinoma, as detected by an FDA-authorized test.",
             "contributions": [
               {
                 "id": "ctrb:vanallenlab:2026-10-29:0",
@@ -1148048,7 +1148048,7 @@
           "value": {
             "id": "ind:fda:ziihera:1",
             "type": "Indication",
-            "description": "ZIHERA is a bispecific HER2-directed antibody indicated in combination with fluoropyrimidine- and platinum-containing chemotherapy, and tislelizumab-jsgr, as first-line treatment of adult patients with HER2-positive (IHC 3+ or IHC 2+/ISH+) unresectable locally advanced or metastatic gastric, gastroesophageal junction, or esophageal adenocarcinoma, as detected by an FDA-authorized test.",
+            "description": "ZIIHERA is a bispecific HER2-directed antibody indicated in combination with fluoropyrimidine- and platinum-containing chemotherapy, and tislelizumab-jsgr, as first-line treatment of adult patients with HER2-positive (IHC 3+ or IHC 2+/ISH+) unresectable locally advanced or metastatic gastric, gastroesophageal junction, or esophageal adenocarcinoma, as detected by an FDA-authorized test.",
             "contributions": [
               {
                 "id": "ctrb:vanallenlab:2026-10-29:0",
@@ -1148725,7 +1148725,7 @@
           "value": {
             "id": "ind:fda:ziihera:1",
             "type": "Indication",
-            "description": "ZIHERA is a bispecific HER2-directed antibody indicated in combination with fluoropyrimidine- and platinum-containing chemotherapy, and tislelizumab-jsgr, as first-line treatment of adult patients with HER2-positive (IHC 3+ or IHC 2+/ISH+) unresectable locally advanced or metastatic gastric, gastroesophageal junction, or esophageal adenocarcinoma, as detected by an FDA-authorized test.",
+            "description": "ZIIHERA is a bispecific HER2-directed antibody indicated in combination with fluoropyrimidine- and platinum-containing chemotherapy, and tislelizumab-jsgr, as first-line treatment of adult patients with HER2-positive (IHC 3+ or IHC 2+/ISH+) unresectable locally advanced or metastatic gastric, gastroesophageal junction, or esophageal adenocarcinoma, as detected by an FDA-authorized test.",
             "contributions": [
               {
                 "id": "ctrb:vanallenlab:2026-10-29:0",
@@ -1149402,7 +1149402,7 @@
           "value": {
             "id": "ind:fda:ziihera:1",
             "type": "Indication",
-            "description": "ZIHERA is a bispecific HER2-directed antibody indicated in combination with fluoropyrimidine- and platinum-containing chemotherapy, and tislelizumab-jsgr, as first-line treatment of adult patients with HER2-positive (IHC 3+ or IHC 2+/ISH+) unresectable locally advanced or metastatic gastric, gastroesophageal junction, or esophageal adenocarcinoma, as detected by an FDA-authorized test.",
+            "description": "ZIIHERA is a bispecific HER2-directed antibody indicated in combination with fluoropyrimidine- and platinum-containing chemotherapy, and tislelizumab-jsgr, as first-line treatment of adult patients with HER2-positive (IHC 3+ or IHC 2+/ISH+) unresectable locally advanced or metastatic gastric, gastroesophageal junction, or esophageal adenocarcinoma, as detected by an FDA-authorized test.",
             "contributions": [
               {
                 "id": "ctrb:vanallenlab:2026-10-29:0",

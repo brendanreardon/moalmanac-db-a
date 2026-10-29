@@ -1,7 +1,7 @@
 {
   "id": "ind:fda:ziihera:0",
   "type": "Indication",
-  "description": "ZIHERA is a bispecific HER2-directed antibody indicated for the treatment of adults with previously treated, unresectable or metastatic HER2-positive (IHC 3+) biliary tract cancer (BTC), as detected by an FDA-approved test. This indication is approved under accelerated approval based on overall response rate and duration of response. Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial(s).",
+  "description": "ZIIHERA is a bispecific HER2-directed antibody indicated for the treatment of adults with previously treated, unresectable or metastatic HER2-positive (IHC 3+) biliary tract cancer (BTC), as detected by an FDA-approved test. This indication is approved under accelerated approval based on overall response rate and duration of response. Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial(s).",
   "contributions": [
     {
       "id": "ctrb:vanallenlab:2025-01-10:0",
