@@ -4087,8 +4087,8 @@
   },
   {
     "id": "map:ncit:C91732::rxcui:2747771",
-    "primary_coding_id": "ncit:C91732",
-    "coding_id": "rxcui:2747771",
+    "primary_coding_id": "coding:ncit:C91732",
+    "coding_id": "coding:rxcui:2747771",
     "relation": "relatedMatch"
   }
 ]
