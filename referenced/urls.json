@@ -7566,5 +7566,9 @@
   {
     "id": "url:fda:etcamah:label",
     "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/220359Orig1s000lbl.pdf"
+  },
+  {
+    "id": "url:fda:etcamah:label:2026-09-04",
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/220359Orig1s000lbl.pdf"
   }
 ]

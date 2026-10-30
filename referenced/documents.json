@@ -36797,7 +36797,7 @@
     "aliases": [],
     "description": "Astrazeneca. Etcamah (camizestrant) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/220359Orig1s000lbl.pdf. Revised September 2026. Accessed October 30, 2026.",
     "urls": [
-      "url:fda:etcamah:label",
+      "url:fda:etcamah:label:2026-09-04",
       "url:fda:etcamah:overview"
     ],
     "doi": null,
