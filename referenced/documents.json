@@ -36764,5 +36764,51 @@
     "publication_date": "2026-05-01",
     "regulatory_identifier": "NDA219835",
     "status": "Deprecated"
+  },
+  {
+    "id": "doc:fda:etcamah",
+    "type": "Document",
+    "documentType": "Regulatory approval",
+    "name": "Etcamah (camizestrant) [package insert]. FDA.",
+    "title": null,
+    "aliases": [],
+    "description": "Astrazeneca. Etcamah (camizestrant) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/220359Orig1s000lbl.pdf. Revised September 2026. Accessed October 30, 2026.",
+    "urls": [
+      "url:fda:etcamah:label",
+      "url:fda:etcamah:overview"
+    ],
+    "doi": null,
+    "pmid": null,
+    "agent_id": "agent:org:fda",
+    "company": "Astrazeneca",
+    "drug_name_brand": "Etcamah",
+    "drug_name_generic": "camizestrant",
+    "first_publication_date": "2026-09-04",
+    "publication_date": "2026-09-04",
+    "regulatory_identifier": "NDA220359",
+    "status": "Active"
+  },
+  {
+    "id": "doc:fda:etcamah:2026-09-04",
+    "type": "Document",
+    "documentType": "Regulatory approval",
+    "name": "Etcamah (camizestrant) [package insert]. FDA.",
+    "title": null,
+    "aliases": [],
+    "description": "Astrazeneca. Etcamah (camizestrant) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/220359Orig1s000lbl.pdf. Revised September 2026. Accessed October 30, 2026.",
+    "urls": [
+      "url:fda:etcamah:label",
+      "url:fda:etcamah:overview"
+    ],
+    "doi": null,
+    "pmid": null,
+    "agent_id": "agent:org:fda",
+    "company": "Astrazeneca",
+    "drug_name_brand": "Etcamah",
+    "drug_name_generic": "camizestrant",
+    "first_publication_date": "2026-09-04",
+    "publication_date": "2026-09-04",
+    "regulatory_identifier": "NDA220359",
+    "status": "Deprecated"
   }
 ]
