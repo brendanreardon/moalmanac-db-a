@@ -1,0 +1,173 @@
+{
+  "id": "ind:fda:etcamah:0",
+  "type": "Indication",
+  "description": "ETCAMAH is an estrogen receptor antagonist indicated in combination with a CDK4/6 inhibitor (abemaciclib, palbociclib, or ribociclib) for the treatment of adult patients with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative, locally advanced or metastatic breast cancer upon detection of ESR1 mutation during aromatase inhibitor and CDK4/6 inhibitor therapy, based on an FDA-authorized test. This indication is approved under accelerated approval based on progression-free survival as measured from detection of ESR1 mutation. Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial(s).",
+  "contributions": [
+    {
+      "id": "ctrb:vanallenlab:2026-10-30:0",
+      "type": "Contribution",
+      "description": "Initial curation of this indication into moalmanac-db.",
+      "date": "2026-10-30",
+      "contributor": {
+        "id": "agent:user:vanallenlab",
+        "type": "Agent",
+        "agentType": "contributor",
+        "name": "Van Allen lab",
+        "description": "Van Allen lab, Dana-Farber Cancer Institute"
+      }
+    },
+    {
+      "id": "ctrb:fda:2026-09-04:0",
+      "type": "Contribution",
+      "description": "Indication received accelerated approval.",
+      "date": "2026-09-04",
+      "contributor": {
+        "id": "agent:org:fda",
+        "type": "Agent",
+        "agentType": "organization",
+        "name": "Food and Drug Administration",
+        "description": "Regulatory agency that approves drugs for use in the United States."
+      }
+    }
+  ],
+  "reportedIn": [
+    {
+      "id": "doc:fda:etcamah",
+      "type": "Document",
+      "documentType": "Regulatory approval",
+      "name": "Etcamah (camizestrant) [package insert]. FDA.",
+      "title": null,
+      "aliases": [],
+      "description": "Astrazeneca. Etcamah (camizestrant) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/220359Orig1s000lbl.pdf. Revised September 2026. Accessed October 30, 2026.",
+      "urls": [
+        "https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/220359Orig1s000lbl.pdf",
+        "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=220359"
+      ],
+      "doi": null,
+      "pmid": null,
+      "extensions": [
+        {
+          "name": "agent",
+          "value": {
+            "id": "agent:org:fda",
+            "type": "Agent",
+            "agentType": "organization",
+            "name": "Food and Drug Administration",
+            "description": "Regulatory agency that approves drugs for use in the United States."
+          },
+          "description": "The organization that published this document."
+        },
+        {
+          "name": "company",
+          "value": "Astrazeneca",
+          "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
+        },
+        {
+          "name": "drug_name_brand",
+          "value": "Etcamah",
+          "description": "The brand name of the cancer drug, per this document. Only applicable to market authorization documents."
+        },
+        {
+          "name": "drug_name_generic",
+          "value": "camizestrant",
+          "description": "The generic name of the cancer drug, per this document. Only applicable to market authorization documents."
+        },
+        {
+          "name": "first_publication_date",
+          "value": "2026-09-04",
+          "description": "The publication date for the initial version of this document."
+        },
+        {
+          "name": "publication_date",
+          "value": "2026-09-04",
+          "description": "The publication date for the document."
+        },
+        {
+          "name": "regulatory_identifier",
+          "value": "NDA220359",
+          "description": "Identifier assigned by the regulatory agency, such as an FDA application number (e.g. NDA208716, BLA125427) or an EMA product number (e.g. EMEA/H/C/006184)."
+        },
+        {
+          "name": "status",
+          "value": "Active",
+          "description": "Whether this document is Active or Deprecated within moalmanac-db."
+        }
+      ]
+    },
+    {
+      "id": "doc:fda:etcamah:2026-09-04",
+      "type": "Document",
+      "documentType": "Regulatory approval",
+      "name": "Etcamah (camizestrant) [package insert]. FDA.",
+      "title": null,
+      "aliases": [],
+      "description": "Astrazeneca. Etcamah (camizestrant) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/220359Orig1s000lbl.pdf. Revised September 2026. Accessed October 30, 2026.",
+      "urls": [
+        "https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/220359Orig1s000lbl.pdf",
+        "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=220359"
+      ],
+      "doi": null,
+      "pmid": null,
+      "extensions": [
+        {
+          "name": "agent",
+          "value": {
+            "id": "agent:org:fda",
+            "type": "Agent",
+            "agentType": "organization",
+            "name": "Food and Drug Administration",
+            "description": "Regulatory agency that approves drugs for use in the United States."
+          },
+          "description": "The organization that published this document."
+        },
+        {
+          "name": "company",
+          "value": "Astrazeneca",
+          "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
+        },
+        {
+          "name": "drug_name_brand",
+          "value": "Etcamah",
+          "description": "The brand name of the cancer drug, per this document. Only applicable to market authorization documents."
+        },
+        {
+          "name": "drug_name_generic",
+          "value": "camizestrant",
+          "description": "The generic name of the cancer drug, per this document. Only applicable to market authorization documents."
+        },
+        {
+          "name": "first_publication_date",
+          "value": "2026-09-04",
+          "description": "The publication date for the initial version of this document."
+        },
+        {
+          "name": "publication_date",
+          "value": "2026-09-04",
+          "description": "The publication date for the document."
+        },
+        {
+          "name": "regulatory_identifier",
+          "value": "NDA220359",
+          "description": "Identifier assigned by the regulatory agency, such as an FDA application number (e.g. NDA208716, BLA125427) or an EMA product number (e.g. EMEA/H/C/006184)."
+        },
+        {
+          "name": "status",
+          "value": "Deprecated",
+          "description": "Whether this document is Active or Deprecated within moalmanac-db."
+        }
+      ]
+    }
+  ],
+  "extensions": [
+    {
+      "name": "status",
+      "value": "Approved",
+      "description": "Current approval status."
+    },
+    {
+      "name": "statement description",
+      "value": "The U.S. Food and Drug Administration (FDA) granted accelerated approval to camizestrant in combination with a CDK4/6 inhibitor (abemaciclib, palbociclib, or ribociclib) for the treatment of adult patients with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative, locally advanced or metastatic breast cancer upon detection of ESR1 variants during aromatase inhibitor and CDK4/6 inhibitor therapy, based on an FDA-authorized test. The product label notes that this indication is approved under accelerated approval based on progression-free survival as measured from detection of ESR1 mutation. Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial(s). This indication is based on SERENA-6 (NCT04964934), a randomized, double-blind, placebo-controlled, multicenter, ctDNA-guided trial. Patients were tested every 2-3 months for ESR1 variants using the Guardant360 CDx ctDNA assay.",
+      "description": "The description text for all Statements derived from this Indication."
+    }
+  ]
+}
