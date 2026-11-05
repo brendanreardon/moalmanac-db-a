@@ -5,7 +5,7 @@
     "license": "CC-BY-4.0",
     "release": "2.0.0",
     "url": "https://moalmanac.org",
-    "last_updated": "2026-10-28"
+    "last_updated": "2026-11-05"
   },
   "content": [
     {
@@ -862559,6 +862559,19 @@
       "description": "The U.S. Food and Drug Administration (FDA) granted accelerated approval to sevabertinib for the treatment of adult patients with locally advanced or metastatic non-squamous non-small cell lung cancer (NSCLC) whose tumors have HER2 (ERBB2) tyrosine kinase domain (TKD) activating mutations, as detected by an FDA-approved test, and who have received prior systemic therapy. This indication is approved under accelerated approval based on objective response rate (ORR) and duration of response (DOR). Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial.",
       "contributions": [
         {
+          "id": "ctrb:fda:2026-09-09:0",
+          "type": "Contribution",
+          "description": "Indication has been superseded by another approval from the FDA.",
+          "date": "2026-09-09",
+          "contributor": {
+            "id": "agent:org:fda",
+            "type": "Agent",
+            "agentType": "organization",
+            "name": "Food and Drug Administration",
+            "description": "Regulatory agency that approves drugs for use in the United States."
+          }
+        },
+        {
           "id": "ctrb:vanallenlab:2025-12-23:2",
           "type": "Contribution",
           "description": "On 2025-11-19, the US FDA granted accelerated approval to Hyrnuo (sevabertinib) for the treatment of patients with NSCLC and activating ERBB2 TKD variants.",
@@ -862593,9 +862606,9 @@
           "name": "Hyrnuo (sevabertinib) [package insert]. FDA.",
           "title": null,
           "aliases": [],
-          "description": "Bayer HealthCare Pharmaceuticals Inc. Hyrnuo (sevabertinib) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/219972s000lblCorrected.pdf. Revised November 2025. Accessed December 23, 2025.",
+          "description": "Bayer HealthCare Pharmaceuticals Inc. Hyrnuo (sevabertinib) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/219972s001lbl.pdf. Revised September 2026. Accessed November 5, 2026.",
           "urls": [
-            "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/219972s000lblCorrected.pdf",
+            "https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/219972s001lbl.pdf",
             "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=219972"
           ],
           "doi": null,
@@ -862634,7 +862647,7 @@
             },
             {
               "name": "publication_date",
-              "value": "2025-11-19",
+              "value": "2026-09-09",
               "description": "The publication date for the document."
             },
             {
@@ -863002,7 +863015,7 @@
       "extensions": [
         {
           "name": "status",
-          "value": "Active",
+          "value": "Superseded",
           "description": "Whether this Statement is Active, Superseded, or Deprecated within moalmanac-db."
         },
         {
@@ -863012,6 +863025,19 @@
             "type": "Indication",
             "description": "HYRNUO is a kinase inhibitor indicated for the treatment of adult patients with locally advanced or metastatic non-squamous non-small cell lung cancer (NSCLC) whose tumors have HER2 (ERBB2) tyrosine kinase domain (TKD) activating mutations, as detected by an FDA-approved test, and who have received prior systemic therapy. This indication is approved under accelerated approval based on objective response rate (ORR) and duration of response (DOR). Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial.",
             "contributions": [
+              {
+                "id": "ctrb:fda:2026-09-09:0",
+                "type": "Contribution",
+                "description": "Indication has been superseded by another approval from the FDA.",
+                "date": "2026-09-09",
+                "contributor": {
+                  "id": "agent:org:fda",
+                  "type": "Agent",
+                  "agentType": "organization",
+                  "name": "Food and Drug Administration",
+                  "description": "Regulatory agency that approves drugs for use in the United States."
+                }
+              },
               {
                 "id": "ctrb:vanallenlab:2025-12-23:2",
                 "type": "Contribution",
@@ -863047,9 +863073,9 @@
                 "name": "Hyrnuo (sevabertinib) [package insert]. FDA.",
                 "title": null,
                 "aliases": [],
-                "description": "Bayer HealthCare Pharmaceuticals Inc. Hyrnuo (sevabertinib) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/219972s000lblCorrected.pdf. Revised November 2025. Accessed December 23, 2025.",
+                "description": "Bayer HealthCare Pharmaceuticals Inc. Hyrnuo (sevabertinib) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/219972s001lbl.pdf. Revised September 2026. Accessed November 5, 2026.",
                 "urls": [
-                  "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/219972s000lblCorrected.pdf",
+                  "https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/219972s001lbl.pdf",
                   "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=219972"
                 ],
                 "doi": null,
@@ -863088,7 +863114,7 @@
                   },
                   {
                     "name": "publication_date",
-                    "value": "2025-11-19",
+                    "value": "2026-09-09",
                     "description": "The publication date for the document."
                   },
                   {
@@ -863152,6 +863178,632 @@
                   {
                     "name": "publication_date",
                     "value": "2025-11-19",
+                    "description": "The publication date for the document."
+                  },
+                  {
+                    "name": "regulatory_identifier",
+                    "value": "NDA219972",
+                    "description": "Identifier assigned by the regulatory agency, such as an FDA application number (e.g. NDA208716, BLA125427) or an EMA product number (e.g. EMEA/H/C/006184)."
+                  },
+                  {
+                    "name": "status",
+                    "value": "Deprecated",
+                    "description": "Whether this document is Active or Deprecated within moalmanac-db."
+                  }
+                ]
+              }
+            ],
+            "extensions": [
+              {
+                "name": "status",
+                "value": "Superseded",
+                "description": "Current approval status."
+              }
+            ]
+          },
+          "description": "The underlying Indication supporting this Statement."
+        }
+      ]
+    },
+    {
+      "id": "stmt:fda:hyrnuo:1:0",
+      "type": "Statement",
+      "description": "The U.S. Food and Drug Administration (FDA) granted accelerated approval to sevabertinib for the treatment of adult patients with locally advanced or metastatic non-squamous non-small cell lung cancer (NSCLC) whose tumors have HER2 (ERBB2) tyrosine kinase domain (TKD) activating mutations, as detected by an FDA-authorized test. This indication is approved under accelerated approval based on objective response rate (ORR) and duration of response (DOR). Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial.",
+      "contributions": [
+        {
+          "id": "ctrb:vanallenlab:2026-11-05:0",
+          "type": "Contribution",
+          "description": "Initial curation of this indication into moalmanac-db.",
+          "date": "2026-11-05",
+          "contributor": {
+            "id": "agent:org:fda",
+            "type": "Agent",
+            "agentType": "organization",
+            "name": "Food and Drug Administration",
+            "description": "Regulatory agency that approves drugs for use in the United States."
+          }
+        },
+        {
+          "id": "ctrb:fda:2026-09-09:1",
+          "type": "Contribution",
+          "description": "Indication received accelerated approval.",
+          "date": "2026-09-09",
+          "contributor": {
+            "id": "agent:org:fda",
+            "type": "Agent",
+            "agentType": "organization",
+            "name": "Food and Drug Administration",
+            "description": "Regulatory agency that approves drugs for use in the United States."
+          }
+        }
+      ],
+      "reportedIn": [
+        {
+          "id": "doc:fda:hyrnuo",
+          "type": "Document",
+          "documentType": "Regulatory approval",
+          "name": "Hyrnuo (sevabertinib) [package insert]. FDA.",
+          "title": null,
+          "aliases": [],
+          "description": "Bayer HealthCare Pharmaceuticals Inc. Hyrnuo (sevabertinib) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/219972s001lbl.pdf. Revised September 2026. Accessed November 5, 2026.",
+          "urls": [
+            "https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/219972s001lbl.pdf",
+            "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=219972"
+          ],
+          "doi": null,
+          "pmid": null,
+          "extensions": [
+            {
+              "name": "agent",
+              "value": {
+                "id": "agent:org:fda",
+                "type": "Agent",
+                "agentType": "organization",
+                "name": "Food and Drug Administration",
+                "description": "Regulatory agency that approves drugs for use in the United States."
+              },
+              "description": "The organization that published this document."
+            },
+            {
+              "name": "company",
+              "value": "Bayer HealthCare Pharmaceuticals Inc.",
+              "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
+            },
+            {
+              "name": "drug_name_brand",
+              "value": "Hyrnuo",
+              "description": "The brand name of the cancer drug, per this document. Only applicable to market authorization documents."
+            },
+            {
+              "name": "drug_name_generic",
+              "value": "sevabertinib",
+              "description": "The generic name of the cancer drug, per this document. Only applicable to market authorization documents."
+            },
+            {
+              "name": "first_publication_date",
+              "value": "2025-11-19",
+              "description": "The publication date for the initial version of this document."
+            },
+            {
+              "name": "publication_date",
+              "value": "2026-09-09",
+              "description": "The publication date for the document."
+            },
+            {
+              "name": "regulatory_identifier",
+              "value": "NDA219972",
+              "description": "Identifier assigned by the regulatory agency, such as an FDA application number (e.g. NDA208716, BLA125427) or an EMA product number (e.g. EMEA/H/C/006184)."
+            },
+            {
+              "name": "status",
+              "value": "Active",
+              "description": "Whether this document is Active or Deprecated within moalmanac-db."
+            }
+          ]
+        },
+        {
+          "id": "doc:fda:hyrnuo:2026-09-09",
+          "type": "Document",
+          "documentType": "Regulatory approval",
+          "name": "Hyrnuo (sevabertinib) [package insert]. FDA.",
+          "title": null,
+          "aliases": [],
+          "description": "Bayer HealthCare Pharmaceuticals Inc. Hyrnuo (sevabertinib) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/219972s001lbl.pdf. Revised September 2026. Accessed October 6, 2026.",
+          "urls": [
+            "https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/219972s001lbl.pdf",
+            "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=219972"
+          ],
+          "doi": null,
+          "pmid": null,
+          "extensions": [
+            {
+              "name": "agent",
+              "value": {
+                "id": "agent:org:fda",
+                "type": "Agent",
+                "agentType": "organization",
+                "name": "Food and Drug Administration",
+                "description": "Regulatory agency that approves drugs for use in the United States."
+              },
+              "description": "The organization that published this document."
+            },
+            {
+              "name": "company",
+              "value": "Bayer HealthCare Pharmaceuticals Inc.",
+              "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
+            },
+            {
+              "name": "drug_name_brand",
+              "value": "Hyrnuo",
+              "description": "The brand name of the cancer drug, per this document. Only applicable to market authorization documents."
+            },
+            {
+              "name": "drug_name_generic",
+              "value": "sevabertinib",
+              "description": "The generic name of the cancer drug, per this document. Only applicable to market authorization documents."
+            },
+            {
+              "name": "first_publication_date",
+              "value": "2025-11-19",
+              "description": "The publication date for the initial version of this document."
+            },
+            {
+              "name": "publication_date",
+              "value": "2026-09-09",
+              "description": "The publication date for the document."
+            },
+            {
+              "name": "regulatory_identifier",
+              "value": "NDA219972",
+              "description": "Identifier assigned by the regulatory agency, such as an FDA application number (e.g. NDA208716, BLA125427) or an EMA product number (e.g. EMEA/H/C/006184)."
+            },
+            {
+              "name": "status",
+              "value": "Deprecated",
+              "description": "Whether this document is Active or Deprecated within moalmanac-db."
+            }
+          ]
+        }
+      ],
+      "direction": "supports",
+      "proposition": {
+        "id": "prop:vtxr:881",
+        "type": "VariantTherapeuticResponseProposition",
+        "predicate": "predictsSensitivityTo",
+        "subjectVariant": {
+          "type": "CategoricalVariant",
+          "description": "Placeholder. Cat-VRS does not yet support sets of categorical variants. See the 'biomarkers' extension for biomarkers associated with this Proposition."
+        },
+        "conditionQualifier": {
+          "id": "dis:ncit:C135017",
+          "conceptType": "Disease",
+          "name": "Lung Non-Squamous Non-Small Cell Carcinoma",
+          "mappings": [],
+          "extensions": [
+            {
+              "name": "solid_tumor",
+              "value": true,
+              "description": "Boolean value for if this tumor type is categorized as a solid tumor."
+            }
+          ],
+          "primaryCoding": {
+            "id": "coding:ncit:C135017",
+            "code": "C135017",
+            "name": "Lung Non-Squamous Non-Small Cell Carcinoma",
+            "system": "https://evsexplore.semantics.cancer.gov",
+            "systemVersion": "26.08e",
+            "iris": [
+              "https://evsexplore.semantics.cancer.gov/evsexplore/concept/ncit/C135017"
+            ]
+          }
+        },
+        "objectTherapeutic": {
+          "id": "tx:ncit:C185187",
+          "conceptType": "Therapy",
+          "name": "Sevabertinib",
+          "mappings": [
+            {
+              "relation": "relatedMatch",
+              "coding": {
+                "id": "coding:rxcui:2728187",
+                "code": "2728187",
+                "name": "sevabertinib",
+                "system": "RxNorm",
+                "systemVersion": "02-Mar-2026",
+                "iris": [
+                  "https://mor.nlm.nih.gov/RxNav/search?searchBy=RXCUI&searchTerm=2728187"
+                ]
+              }
+            },
+            {
+              "relation": "relatedMatch",
+              "coding": {
+                "id": "coding:omop:37354799",
+                "code": "37354799",
+                "name": "sevabertinib",
+                "system": "OMOP",
+                "systemVersion": "v20260227",
+                "iris": [
+                  "https://athena.ohdsi.org/search-terms/terms/37354799"
+                ]
+              }
+            }
+          ],
+          "extensions": [
+            {
+              "name": "therapy_strategy",
+              "value": [
+                "EGFR inhibition",
+                "HER2 inhibition"
+              ],
+              "description": "Associated therapeutic strategy or mechanism of action of the therapy."
+            },
+            {
+              "name": "therapy_type",
+              "value": "Targeted therapy",
+              "description": "Type of cancer treatment from cancer.gov: https://www.cancer.gov/about-cancer/treatment/types"
+            }
+          ],
+          "primaryCoding": {
+            "id": "coding:ncit:C185187",
+            "code": "C185187",
+            "name": "Sevabertinib",
+            "system": "https://evsexplore.semantics.cancer.gov",
+            "systemVersion": "26.08e",
+            "iris": [
+              "https://evsexplore.semantics.cancer.gov/evsexplore/concept/ncit/C185187"
+            ]
+          }
+        },
+        "extensions": [
+          {
+            "name": "biomarkers",
+            "value": [
+              {
+                "id": "bmkr.criterion:173",
+                "present": true,
+                "subject": {
+                  "id": "bmkr:173",
+                  "type": "CategoricalVariant",
+                  "name": "ERBB2 TKD activating variants",
+                  "constraints": [
+                    {
+                      "type": "DefiningLocationConstraint",
+                      "location": {
+                        "id": "ga4gh:SL.gpkyq48rchUXfr_dVmt7BXbjBYofmUvG",
+                        "type": "SequenceLocation",
+                        "name": null,
+                        "aliases": [],
+                        "description": "Sequence within refseq:NP_004439.2, the protein product of the MANE Select coding transcript for ERBB2 (refseq:NM_004448.4), corresponding to the tyrosine kinase domain (residues 712-990; NCBI CDD PTKc_HER2, cd05109).",
+                        "digest": "gpkyq48rchUXfr_dVmt7BXbjBYofmUvG",
+                        "sequenceReference": {
+                          "id": "ga4gh:SQ.AF1UFydIo02-bMplonKSfxlWY2q6ze3m",
+                          "type": "SequenceReference",
+                          "name": "NP_004439.2",
+                          "aliases": [
+                            "ensembl:ENSP00000269571.4",
+                            "ga4gh:SQ.AF1UFydIo02-bMplonKSfxlWY2q6ze3m",
+                            "refseq:NP_004439.2"
+                          ],
+                          "description": "The protein product of the MANE Select coding transcript for ERBB2 (refseq:NM_004448.4), corresponding to the Refseq protein accession NP_004439.2.",
+                          "moleculeType": "protein",
+                          "refgetAccession": "SQ.AF1UFydIo02-bMplonKSfxlWY2q6ze3m",
+                          "residueAlphabet": "aa"
+                        },
+                        "start": 711,
+                        "end": 990,
+                        "sequence": null
+                      },
+                      "relations": [],
+                      "matchCharacteristic": {
+                        "primaryCoding": {
+                          "code": "is_within",
+                          "system": "ga4gh-gks-term:location-match"
+                        }
+                      }
+                    },
+                    {
+                      "type": "FeatureContextConstraint",
+                      "featureContext": {
+                        "id": "gene:hgnc:3430",
+                        "conceptType": "Gene",
+                        "name": "ERBB2",
+                        "primaryCoding": {
+                          "id": "coding:hgnc:3430",
+                          "code": "HGNC:3430",
+                          "system": "https://genenames.org",
+                          "iris": [
+                            "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC:3430"
+                          ]
+                        },
+                        "mappings": [
+                          {
+                            "relation": "exactMatch",
+                            "coding": {
+                              "id": "coding:ensembl:ensg00000141736",
+                              "code": "ENSG00000141736",
+                              "system": "https://www.ensembl.org",
+                              "iris": [
+                                "https://www.ensembl.org/id/ENSG00000141736"
+                              ]
+                            }
+                          },
+                          {
+                            "relation": "exactMatch",
+                            "coding": {
+                              "id": "coding:ncbi:2064",
+                              "code": "2064",
+                              "system": "https://www.ncbi.nlm.nih.gov/gene",
+                              "iris": [
+                                "https://www.ncbi.nlm.nih.gov/gene/2064"
+                              ]
+                            }
+                          },
+                          {
+                            "relation": "relatedMatch",
+                            "coding": {
+                              "id": "coding:refseq:NM_004448.4",
+                              "code": "NM_004448.4",
+                              "system": "https://www.ncbi.nlm.nih.gov/nuccore",
+                              "iris": [
+                                "https://www.ncbi.nlm.nih.gov/nuccore/NM_004448.4"
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "type": "FunctionConstraint",
+                      "functionConsequence": {
+                        "id": "func:so:0002053",
+                        "name": "Gain-of-function",
+                        "primaryCoding": {
+                          "id": "coding:so:0002053",
+                          "name": "gain_of_function_variant",
+                          "system": "https://www.ebi.ac.uk/ols4/ontologies/so",
+                          "code": "SO:0002053",
+                          "iris": [
+                            "https://www.ebi.ac.uk/ols4/ontologies/so/classes/http%253A%252F%252Fpurl.obolibrary.org%252Fobo%252FSO_0002053"
+                          ]
+                        }
+                      }
+                    }
+                  ],
+                  "extensions": [
+                    {
+                      "name": "biomarker_type",
+                      "value": "Somatic variant"
+                    },
+                    {
+                      "name": "chromosome",
+                      "value": "17"
+                    },
+                    {
+                      "name": "start_position",
+                      "value": null
+                    },
+                    {
+                      "name": "end_position",
+                      "value": null
+                    },
+                    {
+                      "name": "reference_allele",
+                      "value": null
+                    },
+                    {
+                      "name": "alternate_allele",
+                      "value": null
+                    },
+                    {
+                      "name": "cdna_change",
+                      "value": null
+                    },
+                    {
+                      "name": "protein_change",
+                      "value": null
+                    },
+                    {
+                      "name": "variant_annotation",
+                      "value": null
+                    },
+                    {
+                      "name": "exon",
+                      "value": null
+                    },
+                    {
+                      "name": "rsid",
+                      "value": null
+                    },
+                    {
+                      "name": "hgvsg",
+                      "value": null
+                    },
+                    {
+                      "name": "hgvsc",
+                      "value": null
+                    },
+                    {
+                      "name": "requires_oncogenic",
+                      "value": true
+                    }
+                  ]
+                }
+              }
+            ],
+            "description": "The biomarkers associated with this Proposition, each with a `present` flag indicating if the biomarker is present (true) or absent (false). Multiple biomarkers are combined with implied AND logic."
+          }
+        ]
+      },
+      "strength": {
+        "id": "str:ncit:C25425",
+        "conceptType": "Evidence",
+        "name": "Approval",
+        "mappings": [],
+        "primaryCoding": {
+          "id": "coding:ncit:C25425",
+          "code": "C25425",
+          "name": "Approval",
+          "system": "https://evsexplore.semantics.cancer.gov",
+          "systemVersion": "26.08e",
+          "iris": [
+            "https://evsexplore.semantics.cancer.gov/evsexplore/concept/ncit/C25425"
+          ]
+        }
+      },
+      "extensions": [
+        {
+          "name": "status",
+          "value": "Active",
+          "description": "Whether this Statement is Active, Superseded, or Deprecated within moalmanac-db."
+        },
+        {
+          "name": "indication",
+          "value": {
+            "id": "ind:fda:hyrnuo:1",
+            "type": "Indication",
+            "description": "HYRNUO is a kinase inhibitor indicated for the treatment of adult patients with locally advanced or metastatic non-squamous non-small cell lung cancer (NSCLC) whose tumors have HER2 (ERBB2) tyrosine kinase domain (TKD) activating mutations, as detected by an FDA-authorized test. This indication is approved under accelerated approval based on objective response rate (ORR) and duration of response (DOR). Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial.",
+            "contributions": [
+              {
+                "id": "ctrb:vanallenlab:2026-11-05:0",
+                "type": "Contribution",
+                "description": "Initial curation of this indication into moalmanac-db.",
+                "date": "2026-11-05",
+                "contributor": {
+                  "id": "agent:org:fda",
+                  "type": "Agent",
+                  "agentType": "organization",
+                  "name": "Food and Drug Administration",
+                  "description": "Regulatory agency that approves drugs for use in the United States."
+                }
+              },
+              {
+                "id": "ctrb:fda:2026-09-09:1",
+                "type": "Contribution",
+                "description": "Indication received accelerated approval.",
+                "date": "2026-09-09",
+                "contributor": {
+                  "id": "agent:org:fda",
+                  "type": "Agent",
+                  "agentType": "organization",
+                  "name": "Food and Drug Administration",
+                  "description": "Regulatory agency that approves drugs for use in the United States."
+                }
+              }
+            ],
+            "reportedIn": [
+              {
+                "id": "doc:fda:hyrnuo",
+                "type": "Document",
+                "documentType": "Regulatory approval",
+                "name": "Hyrnuo (sevabertinib) [package insert]. FDA.",
+                "title": null,
+                "aliases": [],
+                "description": "Bayer HealthCare Pharmaceuticals Inc. Hyrnuo (sevabertinib) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/219972s001lbl.pdf. Revised September 2026. Accessed November 5, 2026.",
+                "urls": [
+                  "https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/219972s001lbl.pdf",
+                  "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=219972"
+                ],
+                "doi": null,
+                "pmid": null,
+                "extensions": [
+                  {
+                    "name": "agent",
+                    "value": {
+                      "id": "agent:org:fda",
+                      "type": "Agent",
+                      "agentType": "organization",
+                      "name": "Food and Drug Administration",
+                      "description": "Regulatory agency that approves drugs for use in the United States."
+                    },
+                    "description": "The organization that published this document."
+                  },
+                  {
+                    "name": "company",
+                    "value": "Bayer HealthCare Pharmaceuticals Inc.",
+                    "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
+                  },
+                  {
+                    "name": "drug_name_brand",
+                    "value": "Hyrnuo",
+                    "description": "The brand name of the cancer drug, per this document. Only applicable to market authorization documents."
+                  },
+                  {
+                    "name": "drug_name_generic",
+                    "value": "sevabertinib",
+                    "description": "The generic name of the cancer drug, per this document. Only applicable to market authorization documents."
+                  },
+                  {
+                    "name": "first_publication_date",
+                    "value": "2025-11-19",
+                    "description": "The publication date for the initial version of this document."
+                  },
+                  {
+                    "name": "publication_date",
+                    "value": "2026-09-09",
+                    "description": "The publication date for the document."
+                  },
+                  {
+                    "name": "regulatory_identifier",
+                    "value": "NDA219972",
+                    "description": "Identifier assigned by the regulatory agency, such as an FDA application number (e.g. NDA208716, BLA125427) or an EMA product number (e.g. EMEA/H/C/006184)."
+                  },
+                  {
+                    "name": "status",
+                    "value": "Active",
+                    "description": "Whether this document is Active or Deprecated within moalmanac-db."
+                  }
+                ]
+              },
+              {
+                "id": "doc:fda:hyrnuo:2026-09-09",
+                "type": "Document",
+                "documentType": "Regulatory approval",
+                "name": "Hyrnuo (sevabertinib) [package insert]. FDA.",
+                "title": null,
+                "aliases": [],
+                "description": "Bayer HealthCare Pharmaceuticals Inc. Hyrnuo (sevabertinib) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/219972s001lbl.pdf. Revised September 2026. Accessed October 6, 2026.",
+                "urls": [
+                  "https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/219972s001lbl.pdf",
+                  "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=219972"
+                ],
+                "doi": null,
+                "pmid": null,
+                "extensions": [
+                  {
+                    "name": "agent",
+                    "value": {
+                      "id": "agent:org:fda",
+                      "type": "Agent",
+                      "agentType": "organization",
+                      "name": "Food and Drug Administration",
+                      "description": "Regulatory agency that approves drugs for use in the United States."
+                    },
+                    "description": "The organization that published this document."
+                  },
+                  {
+                    "name": "company",
+                    "value": "Bayer HealthCare Pharmaceuticals Inc.",
+                    "description": "The company that manufactures the cancer drug. Only applicable to market authorization documents."
+                  },
+                  {
+                    "name": "drug_name_brand",
+                    "value": "Hyrnuo",
+                    "description": "The brand name of the cancer drug, per this document. Only applicable to market authorization documents."
+                  },
+                  {
+                    "name": "drug_name_generic",
+                    "value": "sevabertinib",
+                    "description": "The generic name of the cancer drug, per this document. Only applicable to market authorization documents."
+                  },
+                  {
+                    "name": "first_publication_date",
+                    "value": "2025-11-19",
+                    "description": "The publication date for the initial version of this document."
+                  },
+                  {
+                    "name": "publication_date",
+                    "value": "2026-09-09",
                     "description": "The publication date for the document."
                   },
                   {

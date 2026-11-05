@@ -26784,6 +26784,7 @@
     "type": "Statement",
     "description": "The U.S. Food and Drug Administration (FDA) granted accelerated approval to sevabertinib for the treatment of adult patients with locally advanced or metastatic non-squamous non-small cell lung cancer (NSCLC) whose tumors have HER2 (ERBB2) tyrosine kinase domain (TKD) activating mutations, as detected by an FDA-approved test, and who have received prior systemic therapy. This indication is approved under accelerated approval based on objective response rate (ORR) and duration of response (DOR). Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial.",
     "contributions": [
+      "ctrb:fda:2026-09-09:0",
       "ctrb:vanallenlab:2025-12-23:2",
       "ctrb:fda:2025-11-19:0"
     ],
@@ -26794,8 +26795,26 @@
     "proposition_id": "prop:vtxr:881",
     "direction": "supports",
     "strength_id": "str:ncit:C25425",
-    "status": "Active",
+    "status": "Superseded",
     "indication_id": "ind:fda:hyrnuo:0"
+  },
+  {
+    "id": "stmt:fda:hyrnuo:1:0",
+    "type": "Statement",
+    "description": "The U.S. Food and Drug Administration (FDA) granted accelerated approval to sevabertinib for the treatment of adult patients with locally advanced or metastatic non-squamous non-small cell lung cancer (NSCLC) whose tumors have HER2 (ERBB2) tyrosine kinase domain (TKD) activating mutations, as detected by an FDA-authorized test. This indication is approved under accelerated approval based on objective response rate (ORR) and duration of response (DOR). Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial.",
+    "contributions": [
+      "ctrb:vanallenlab:2026-11-05:0",
+      "ctrb:fda:2026-09-09:1"
+    ],
+    "reportedIn": [
+      "doc:fda:hyrnuo",
+      "doc:fda:hyrnuo:2026-09-09"
+    ],
+    "proposition_id": "prop:vtxr:881",
+    "direction": "supports",
+    "strength_id": "str:ncit:C25425",
+    "status": "Active",
+    "indication_id": "ind:fda:hyrnuo:1"
   },
   {
     "id": "stmt:fda:enhertu:5:0",
