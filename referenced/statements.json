@@ -35704,5 +35704,23 @@
     "strength_id": "str:ncit:C25425",
     "status": "Active",
     "indication_id": "ind:ema:mekinist:4"
+  },
+  {
+    "id": "stmt:fda:hyrnuo:1:0",
+    "type": "Statement",
+    "description": "The U.S. Food and Drug Administration granted accelerated approval to sevabertinib, a kinase inhibitor, for the treatment of adult patients with locally advanced or metastatic non-squamous non-small cell lung cancer (NSCLC) whose tumors have human epidermal growth factor receptor 2 (HER2) (ERBB2) tyrosine kinase domain (TKD) activating variants, as detected by an FDA-authorized test. This indication is approved under accelerated approval based on objective response rate (ORR) and duration of response (DOR). Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial.",
+    "contributions": [
+      "ctrb:vanallenlab:2026-11-06:0",
+      "ctrb:fda:2026-09-09:0"
+    ],
+    "reportedIn": [
+      "doc:fda:hyrnuo",
+      "doc:fda:hyrnuo:2026-09-09"
+    ],
+    "proposition_id": "prop:vtxr:881",
+    "direction": "supports",
+    "strength_id": "str:ncit:C25425",
+    "status": "Active",
+    "indication_id": "ind:fda:hyrnuo:1"
   }
 ]
