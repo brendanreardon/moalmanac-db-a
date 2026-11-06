@@ -2310,5 +2310,18 @@
       "Estrogen receptor inhibition"
     ],
     "therapy_type": "Targeted therapy"
+  },
+  {
+    "id": "tx:ncit:C91732",
+    "conceptType": "Therapy",
+    "name": "Gedatolisib",
+    "primary_coding_id": "coding:ncit:C91732",
+    "mappings": [
+      "map:ncit:C91732::rxcui:2747771"
+    ],
+    "therapy_strategy": [
+      "PI3K/AKT/mTOR inhibition"
+    ],
+    "therapy_type": "Targeted therapy"
   }
 ]

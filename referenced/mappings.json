@@ -4084,5 +4084,11 @@
     "primary_coding_id": "coding:ncit:C165420",
     "coding_id": "coding:omop:1317445",
     "relation": "relatedMatch"
+  },
+  {
+    "id": "map:ncit:C91732::rxcui:2747771",
+    "primary_coding_id": "coding:ncit:C91732",
+    "coding_id": "coding:rxcui:2747771",
+    "relation": "relatedMatch"
   }
 ]

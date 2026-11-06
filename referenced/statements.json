@@ -35703,5 +35703,113 @@
     "strength_id": "str:ncit:C25425",
     "status": "Active",
     "indication_id": "ind:ema:mekinist:4"
+  },
+  {
+    "id": "stmt:fda:revtorpyk:0:0",
+    "type": "Statement",
+    "description": "The U.S. Food and Drug Administration granted approval to gedatolisib, a kinase inhibitor, in combination with fulvestrant, with or without palbociclib, for the treatment of adult patients with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative locally advanced or metastatic breast cancer without a PIK3CA variant detected following progression on or after treatment with at least one line of endocrine therapy in the metastatic setting. In VIKTORIA-1 (NCT05501886), an open-label, randomized, multicenter trial, PIK3CA status was assessed centrally for the variants p.C420R, p.E542K, p.E545A, p.E545D (1635G>T only), p.E545G, p.E545K, p.Q546E, p.H1047L, p.H1047R, and p.H1047Y.",
+    "contributions": [
+      "ctrb:vanallenlab:2026-11-05:0",
+      "ctrb:fda:2026-07-14:0"
+    ],
+    "reportedIn": [
+      "doc:fda:revtorpyk",
+      "doc:fda:revtorpyk:2026-07-14"
+    ],
+    "proposition_id": "prop:vtxr:996",
+    "direction": "supports",
+    "strength_id": "str:ncit:C25425",
+    "status": "Active",
+    "indication_id": "ind:fda:revtorpyk:0"
+  },
+  {
+    "id": "stmt:fda:revtorpyk:0:1",
+    "type": "Statement",
+    "description": "The U.S. Food and Drug Administration granted approval to gedatolisib, a kinase inhibitor, in combination with fulvestrant, with or without palbociclib, for the treatment of adult patients with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative locally advanced or metastatic breast cancer without a PIK3CA variant detected following progression on or after treatment with at least one line of endocrine therapy in the metastatic setting. In VIKTORIA-1 (NCT05501886), an open-label, randomized, multicenter trial, PIK3CA status was assessed centrally for the variants p.C420R, p.E542K, p.E545A, p.E545D (1635G>T only), p.E545G, p.E545K, p.Q546E, p.H1047L, p.H1047R, and p.H1047Y.",
+    "contributions": [
+      "ctrb:vanallenlab:2026-11-05:0",
+      "ctrb:fda:2026-07-14:0"
+    ],
+    "reportedIn": [
+      "doc:fda:revtorpyk",
+      "doc:fda:revtorpyk:2026-07-14"
+    ],
+    "proposition_id": "prop:vtxr:997",
+    "direction": "supports",
+    "strength_id": "str:ncit:C25425",
+    "status": "Active",
+    "indication_id": "ind:fda:revtorpyk:0"
+  },
+  {
+    "id": "stmt:fda:revtorpyk:0:2",
+    "type": "Statement",
+    "description": "The U.S. Food and Drug Administration granted approval to gedatolisib, a kinase inhibitor, in combination with fulvestrant, with or without palbociclib, for the treatment of adult patients with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative locally advanced or metastatic breast cancer without a PIK3CA variant detected following progression on or after treatment with at least one line of endocrine therapy in the metastatic setting. In VIKTORIA-1 (NCT05501886), an open-label, randomized, multicenter trial, PIK3CA status was assessed centrally for the variants p.C420R, p.E542K, p.E545A, p.E545D (1635G>T only), p.E545G, p.E545K, p.Q546E, p.H1047L, p.H1047R, and p.H1047Y.",
+    "contributions": [
+      "ctrb:vanallenlab:2026-11-05:0",
+      "ctrb:fda:2026-07-14:0"
+    ],
+    "reportedIn": [
+      "doc:fda:revtorpyk",
+      "doc:fda:revtorpyk:2026-07-14"
+    ],
+    "proposition_id": "prop:vtxr:998",
+    "direction": "supports",
+    "strength_id": "str:ncit:C25425",
+    "status": "Active",
+    "indication_id": "ind:fda:revtorpyk:0"
+  },
+  {
+    "id": "stmt:fda:revtorpyk:0:3",
+    "type": "Statement",
+    "description": "The U.S. Food and Drug Administration granted approval to gedatolisib, a kinase inhibitor, in combination with fulvestrant, with or without palbociclib, for the treatment of adult patients with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative locally advanced or metastatic breast cancer without a PIK3CA variant detected following progression on or after treatment with at least one line of endocrine therapy in the metastatic setting. In VIKTORIA-1 (NCT05501886), an open-label, randomized, multicenter trial, PIK3CA status was assessed centrally for the variants p.C420R, p.E542K, p.E545A, p.E545D (1635G>T only), p.E545G, p.E545K, p.Q546E, p.H1047L, p.H1047R, and p.H1047Y.",
+    "contributions": [
+      "ctrb:vanallenlab:2026-11-05:0",
+      "ctrb:fda:2026-07-14:0"
+    ],
+    "reportedIn": [
+      "doc:fda:revtorpyk",
+      "doc:fda:revtorpyk:2026-07-14"
+    ],
+    "proposition_id": "prop:vtxr:999",
+    "direction": "supports",
+    "strength_id": "str:ncit:C25425",
+    "status": "Active",
+    "indication_id": "ind:fda:revtorpyk:0"
+  },
+  {
+    "id": "stmt:fda:revtorpyk:0:4",
+    "type": "Statement",
+    "description": "The U.S. Food and Drug Administration granted approval to gedatolisib, a kinase inhibitor, in combination with fulvestrant, with or without palbociclib, for the treatment of adult patients with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative locally advanced or metastatic breast cancer without a PIK3CA variant detected following progression on or after treatment with at least one line of endocrine therapy in the metastatic setting. In VIKTORIA-1 (NCT05501886), an open-label, randomized, multicenter trial, PIK3CA status was assessed centrally for the variants p.C420R, p.E542K, p.E545A, p.E545D (1635G>T only), p.E545G, p.E545K, p.Q546E, p.H1047L, p.H1047R, and p.H1047Y.",
+    "contributions": [
+      "ctrb:vanallenlab:2026-11-05:0",
+      "ctrb:fda:2026-07-14:0"
+    ],
+    "reportedIn": [
+      "doc:fda:revtorpyk",
+      "doc:fda:revtorpyk:2026-07-14"
+    ],
+    "proposition_id": "prop:vtxr:1000",
+    "direction": "supports",
+    "strength_id": "str:ncit:C25425",
+    "status": "Active",
+    "indication_id": "ind:fda:revtorpyk:0"
+  },
+  {
+    "id": "stmt:fda:revtorpyk:0:5",
+    "type": "Statement",
+    "description": "The U.S. Food and Drug Administration granted approval to gedatolisib, a kinase inhibitor, in combination with fulvestrant, with or without palbociclib, for the treatment of adult patients with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative locally advanced or metastatic breast cancer without a PIK3CA variant detected following progression on or after treatment with at least one line of endocrine therapy in the metastatic setting. In VIKTORIA-1 (NCT05501886), an open-label, randomized, multicenter trial, PIK3CA status was assessed centrally for the variants p.C420R, p.E542K, p.E545A, p.E545D (1635G>T only), p.E545G, p.E545K, p.Q546E, p.H1047L, p.H1047R, and p.H1047Y.",
+    "contributions": [
+      "ctrb:vanallenlab:2026-11-05:0",
+      "ctrb:fda:2026-07-14:0"
+    ],
+    "reportedIn": [
+      "doc:fda:revtorpyk",
+      "doc:fda:revtorpyk:2026-07-14"
+    ],
+    "proposition_id": "prop:vtxr:1001",
+    "direction": "supports",
+    "strength_id": "str:ncit:C25425",
+    "status": "Active",
+    "indication_id": "ind:fda:revtorpyk:0"
   }
 ]
