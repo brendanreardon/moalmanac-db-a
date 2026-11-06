@@ -32896,7 +32896,7 @@
     "name": "Hyrnuo (sevabertinib) [package insert]. FDA.",
     "title": null,
     "aliases": [],
-    "description": "Bayer HealthCare Pharmaceuticals Inc. Hyrnuo (sevabertinib) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/219972s000lblCorrected.pdf. Revised November 2025. Accessed December 23, 2025.",
+    "description": "Bayer HealthCare Pharmaceuticals Inc. Hyrnuo (sevabertinib) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/219972s001lbl.pdf. Revised September 2026. Accessed November 6, 2026.",
     "urls": [
       "url:fda:hyrnuo:label",
       "url:fda:hyrnuo:overview"
@@ -32908,7 +32908,7 @@
     "drug_name_brand": "Hyrnuo",
     "drug_name_generic": "sevabertinib",
     "first_publication_date": "2025-11-19",
-    "publication_date": "2025-11-19",
+    "publication_date": "2026-09-09",
     "regulatory_identifier": "NDA219972",
     "status": "Active"
   },
