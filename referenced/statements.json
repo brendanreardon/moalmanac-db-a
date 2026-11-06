@@ -35703,5 +35703,167 @@
     "strength_id": "str:ncit:C25425",
     "status": "Active",
     "indication_id": "ind:ema:mekinist:4"
+  },
+  {
+    "id": "stmt:fda:etcamah:0:0",
+    "type": "Statement",
+    "description": "The U.S. Food and Drug Administration granted accelerated approval to camizestrant, an estrogen receptor antagonist, in combination with a CDK4/6 inhibitor (abemaciclib, palbociclib, or ribociclib) for the treatment of adult patients with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative, locally advanced or metastatic breast cancer upon detection of an ESR1 variant during aromatase inhibitor and CDK4/6 inhibitor therapy, based on an FDA-authorized test. This indication is approved under accelerated approval based on progression-free survival as measured from detection of the ESR1 variant. Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial(s).",
+    "contributions": [
+      "ctrb:vanallenlab:2026-11-05:0",
+      "ctrb:fda:2026-09-04:0"
+    ],
+    "reportedIn": [
+      "doc:fda:etcamah",
+      "doc:fda:etcamah:2026-09-04"
+    ],
+    "proposition_id": "prop:vtxr:924",
+    "direction": "supports",
+    "strength_id": "str:ncit:C25425",
+    "status": "Active",
+    "indication_id": "ind:fda:etcamah:0"
+  },
+  {
+    "id": "stmt:fda:etcamah:0:1",
+    "type": "Statement",
+    "description": "The U.S. Food and Drug Administration granted accelerated approval to camizestrant, an estrogen receptor antagonist, in combination with a CDK4/6 inhibitor (abemaciclib, palbociclib, or ribociclib) for the treatment of adult patients with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative, locally advanced or metastatic breast cancer upon detection of an ESR1 variant during aromatase inhibitor and CDK4/6 inhibitor therapy, based on an FDA-authorized test. This indication is approved under accelerated approval based on progression-free survival as measured from detection of the ESR1 variant. Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial(s).",
+    "contributions": [
+      "ctrb:vanallenlab:2026-11-05:0",
+      "ctrb:fda:2026-09-04:0"
+    ],
+    "reportedIn": [
+      "doc:fda:etcamah",
+      "doc:fda:etcamah:2026-09-04"
+    ],
+    "proposition_id": "prop:vtxr:996",
+    "direction": "supports",
+    "strength_id": "str:ncit:C25425",
+    "status": "Active",
+    "indication_id": "ind:fda:etcamah:0"
+  },
+  {
+    "id": "stmt:fda:etcamah:0:2",
+    "type": "Statement",
+    "description": "The U.S. Food and Drug Administration granted accelerated approval to camizestrant, an estrogen receptor antagonist, in combination with a CDK4/6 inhibitor (abemaciclib, palbociclib, or ribociclib) for the treatment of adult patients with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative, locally advanced or metastatic breast cancer upon detection of an ESR1 variant during aromatase inhibitor and CDK4/6 inhibitor therapy, based on an FDA-authorized test. This indication is approved under accelerated approval based on progression-free survival as measured from detection of the ESR1 variant. Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial(s).",
+    "contributions": [
+      "ctrb:vanallenlab:2026-11-05:0",
+      "ctrb:fda:2026-09-04:0"
+    ],
+    "reportedIn": [
+      "doc:fda:etcamah",
+      "doc:fda:etcamah:2026-09-04"
+    ],
+    "proposition_id": "prop:vtxr:997",
+    "direction": "supports",
+    "strength_id": "str:ncit:C25425",
+    "status": "Active",
+    "indication_id": "ind:fda:etcamah:0"
+  },
+  {
+    "id": "stmt:fda:etcamah:0:3",
+    "type": "Statement",
+    "description": "The U.S. Food and Drug Administration granted accelerated approval to camizestrant, an estrogen receptor antagonist, in combination with a CDK4/6 inhibitor (abemaciclib, palbociclib, or ribociclib) for the treatment of adult patients with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative, locally advanced or metastatic breast cancer upon detection of an ESR1 variant during aromatase inhibitor and CDK4/6 inhibitor therapy, based on an FDA-authorized test. This indication is approved under accelerated approval based on progression-free survival as measured from detection of the ESR1 variant. Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial(s).",
+    "contributions": [
+      "ctrb:vanallenlab:2026-11-05:0",
+      "ctrb:fda:2026-09-04:0"
+    ],
+    "reportedIn": [
+      "doc:fda:etcamah",
+      "doc:fda:etcamah:2026-09-04"
+    ],
+    "proposition_id": "prop:vtxr:925",
+    "direction": "supports",
+    "strength_id": "str:ncit:C25425",
+    "status": "Active",
+    "indication_id": "ind:fda:etcamah:0"
+  },
+  {
+    "id": "stmt:fda:etcamah:0:4",
+    "type": "Statement",
+    "description": "The U.S. Food and Drug Administration granted accelerated approval to camizestrant, an estrogen receptor antagonist, in combination with a CDK4/6 inhibitor (abemaciclib, palbociclib, or ribociclib) for the treatment of adult patients with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative, locally advanced or metastatic breast cancer upon detection of an ESR1 variant during aromatase inhibitor and CDK4/6 inhibitor therapy, based on an FDA-authorized test. This indication is approved under accelerated approval based on progression-free survival as measured from detection of the ESR1 variant. Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial(s).",
+    "contributions": [
+      "ctrb:vanallenlab:2026-11-05:0",
+      "ctrb:fda:2026-09-04:0"
+    ],
+    "reportedIn": [
+      "doc:fda:etcamah",
+      "doc:fda:etcamah:2026-09-04"
+    ],
+    "proposition_id": "prop:vtxr:998",
+    "direction": "supports",
+    "strength_id": "str:ncit:C25425",
+    "status": "Active",
+    "indication_id": "ind:fda:etcamah:0"
+  },
+  {
+    "id": "stmt:fda:etcamah:0:5",
+    "type": "Statement",
+    "description": "The U.S. Food and Drug Administration granted accelerated approval to camizestrant, an estrogen receptor antagonist, in combination with a CDK4/6 inhibitor (abemaciclib, palbociclib, or ribociclib) for the treatment of adult patients with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative, locally advanced or metastatic breast cancer upon detection of an ESR1 variant during aromatase inhibitor and CDK4/6 inhibitor therapy, based on an FDA-authorized test. This indication is approved under accelerated approval based on progression-free survival as measured from detection of the ESR1 variant. Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial(s).",
+    "contributions": [
+      "ctrb:vanallenlab:2026-11-05:0",
+      "ctrb:fda:2026-09-04:0"
+    ],
+    "reportedIn": [
+      "doc:fda:etcamah",
+      "doc:fda:etcamah:2026-09-04"
+    ],
+    "proposition_id": "prop:vtxr:999",
+    "direction": "supports",
+    "strength_id": "str:ncit:C25425",
+    "status": "Active",
+    "indication_id": "ind:fda:etcamah:0"
+  },
+  {
+    "id": "stmt:fda:etcamah:0:6",
+    "type": "Statement",
+    "description": "The U.S. Food and Drug Administration granted accelerated approval to camizestrant, an estrogen receptor antagonist, in combination with a CDK4/6 inhibitor (abemaciclib, palbociclib, or ribociclib) for the treatment of adult patients with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative, locally advanced or metastatic breast cancer upon detection of an ESR1 variant during aromatase inhibitor and CDK4/6 inhibitor therapy, based on an FDA-authorized test. This indication is approved under accelerated approval based on progression-free survival as measured from detection of the ESR1 variant. Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial(s).",
+    "contributions": [
+      "ctrb:vanallenlab:2026-11-05:0",
+      "ctrb:fda:2026-09-04:0"
+    ],
+    "reportedIn": [
+      "doc:fda:etcamah",
+      "doc:fda:etcamah:2026-09-04"
+    ],
+    "proposition_id": "prop:vtxr:926",
+    "direction": "supports",
+    "strength_id": "str:ncit:C25425",
+    "status": "Active",
+    "indication_id": "ind:fda:etcamah:0"
+  },
+  {
+    "id": "stmt:fda:etcamah:0:7",
+    "type": "Statement",
+    "description": "The U.S. Food and Drug Administration granted accelerated approval to camizestrant, an estrogen receptor antagonist, in combination with a CDK4/6 inhibitor (abemaciclib, palbociclib, or ribociclib) for the treatment of adult patients with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative, locally advanced or metastatic breast cancer upon detection of an ESR1 variant during aromatase inhibitor and CDK4/6 inhibitor therapy, based on an FDA-authorized test. This indication is approved under accelerated approval based on progression-free survival as measured from detection of the ESR1 variant. Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial(s).",
+    "contributions": [
+      "ctrb:vanallenlab:2026-11-05:0",
+      "ctrb:fda:2026-09-04:0"
+    ],
+    "reportedIn": [
+      "doc:fda:etcamah",
+      "doc:fda:etcamah:2026-09-04"
+    ],
+    "proposition_id": "prop:vtxr:1000",
+    "direction": "supports",
+    "strength_id": "str:ncit:C25425",
+    "status": "Active",
+    "indication_id": "ind:fda:etcamah:0"
+  },
+  {
+    "id": "stmt:fda:etcamah:0:8",
+    "type": "Statement",
+    "description": "The U.S. Food and Drug Administration granted accelerated approval to camizestrant, an estrogen receptor antagonist, in combination with a CDK4/6 inhibitor (abemaciclib, palbociclib, or ribociclib) for the treatment of adult patients with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative, locally advanced or metastatic breast cancer upon detection of an ESR1 variant during aromatase inhibitor and CDK4/6 inhibitor therapy, based on an FDA-authorized test. This indication is approved under accelerated approval based on progression-free survival as measured from detection of the ESR1 variant. Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial(s).",
+    "contributions": [
+      "ctrb:vanallenlab:2026-11-05:0",
+      "ctrb:fda:2026-09-04:0"
+    ],
+    "reportedIn": [
+      "doc:fda:etcamah",
+      "doc:fda:etcamah:2026-09-04"
+    ],
+    "proposition_id": "prop:vtxr:1001",
+    "direction": "supports",
+    "strength_id": "str:ncit:C25425",
+    "status": "Active",
+    "indication_id": "ind:fda:etcamah:0"
   }
 ]
